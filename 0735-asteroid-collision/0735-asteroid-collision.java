@@ -10,7 +10,7 @@ class Solution {
             }
             if( !sb.isEmpty() && sb.peek() == Math.abs(a[i])){
                 sb.pop();
-            }else if((sb.isEmpty() &&  a[i]<0) || sb.peek()<0){
+            }else if((sb.isEmpty()) || sb.peek()<0){
                 sb.push(a[i]);
             }
             }
