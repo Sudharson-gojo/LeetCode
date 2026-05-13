@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Sudharson-gojo/LeetCode/tree/master/0198-house-robber) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sudharson-gojo/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Simulation
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sudharson-gojo/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Sudharson-gojo/LeetCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
