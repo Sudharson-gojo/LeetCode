@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sudharson-gojo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sudharson-gojo/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sudharson-gojo/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Sudharson-gojo/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sudharson-gojo/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [3866-first-unique-even-element](https://github.com/Sudharson-gojo/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Simulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sudharson-gojo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sudharson-gojo/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sudharson-gojo/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Sudharson-gojo/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [3866-first-unique-even-element](https://github.com/Sudharson-gojo/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sudharson-gojo/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sudharson-gojo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sudharson-gojo/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Sudharson-gojo/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sudharson-gojo/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Sudharson-gojo/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [3866-first-unique-even-element](https://github.com/Sudharson-gojo/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sudharson-gojo/LeetCode/tree/master/0049-group-anagrams) |
+| [0692-top-k-frequent-words](https://github.com/Sudharson-gojo/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,12 +88,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sudharson-gojo/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Sudharson-gojo/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sudharson-gojo/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Sudharson-gojo/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sudharson-gojo/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Sudharson-gojo/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
